@@ -1,0 +1,14 @@
+{
+    "experiences": [
+        {
+            "title": "Mentored a team of 5 memebers for a group project.",
+            "subtitle": "MNIT JAIPUR",
+            "workType": "6th Semester",
+            "workDescription": [
+                "Design and Simulation done with the help of registers and flags for different opcodes.",
+                "Functioning of various instructions was implemented using cpp."
+            ],
+            "dateText": "6th Semester"
+        }
+    ]
+}

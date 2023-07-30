@@ -1,0 +1,65 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/blogbee.png",
+            "title": "Blog Website",
+            "bodyText": "- Blogbee is a full stack web application which allows users to create account and create and read blogs\n - Full Stack multi-page application \n - login/signup and Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/aman9738/blogBee"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://blog-bee.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "NextJS",
+                "Blog-app",
+                "FullStack"
+            ]
+        },
+        {
+            "image" : "images/projects/promptopia.png",
+            "title": "Promptopia",
+            "bodyText": "- Promptopia can be used to create and read AI prompts\n - Users can search using tags effectively on AI like Chatgpt \n - Implemented login/signup,Google Authentication",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/aman9738/Promptopia"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://promptopia-dj3qgt3fm-aman9738.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "NextJS",
+                "MongoDB",
+                "Next-Auth",
+                "Vercel"
+            ]
+        },
+        {
+            "image" : "images/projects/expense_tracker.png",
+            "title": "Expense Tracker App",
+            "bodyText": "- A React App which can be used to track a user's overall budget\n - Users can track their expenses and income by their categories.\n - Added voice capabilities using **Speechly**",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/aman9738/Expense_Tracker"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://budget-tracker-speechly654.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Material-UI",
+                "Netlify"
+            ]
+        }
+    ]
+}

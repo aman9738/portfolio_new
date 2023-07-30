@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/aman-agarwal-386799221/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/aman9738"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:amanagarwal9738@gmail.com"
+        }
+    ]
+}

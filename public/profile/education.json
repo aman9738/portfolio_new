@@ -1,0 +1,25 @@
+{
+    "education":[
+        {
+            "title": "Jun 2020 - Present",
+            "cardTitle": "B.Tech, Electronics and Communication Engineering",
+            "cardSubtitle":"Malaviya National Instititute of Technology, Jaipur",
+            "cardDetailedText": "CGPA - 8.42",
+            "icon" : {
+                "src": "images/education/Mnit_logo.png"
+            }
+        },
+        {
+            "title": "2019",
+            "cardTitle": "High School",
+            "cardSubtitle":"Krishna Vidya Mandir, Sikar, Rajasthan",
+            "cardDetailedText": "Marks - 92%"
+        },
+        {
+            "title": "2017",
+            "cardTitle": "Secondary School",
+            "cardSubtitle":"Virat Public School, Viratnagar, Jaipur",
+            "cardDetailedText": "Marks - 94.33%"
+        }
+    ]
+}
